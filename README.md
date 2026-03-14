@@ -65,7 +65,7 @@ This behavior is consistent with malware beaconing activity commonly seen in rem
 
 Screenshot:
 
-![Infected Host Identification](infected_host_identification.png) 
+![Infected Host Identification](screenshots/infected_host_identification.png) 
 
 ---
 
@@ -79,7 +79,7 @@ This information can assist incident responders in identifying the physical devi
 
 Screenshot:
 
-![Infected Host MAC Address](infected_host_mac_address.png) 
+![Infected Host MAC Address](screenshots/infected_host_mac_address.png) 
 
 ---
 
@@ -95,7 +95,7 @@ Hostname: **DESKTOP-TEYQ2NR**
 
 Screenshot:
 
-![Hostname Discovery](hostname_discover_nbns.png) 
+![Hostname Discovery](screenshots/hostname_discover_nbns.png) 
 
 ---
 
@@ -113,7 +113,7 @@ Username: **brolf**
 
 Screenshot:
 
-![Username Identification](kerberos_username_identification.png)
+![Username Identification](screenshots/kerberos_username_identification.png)
 
 ---
 
@@ -144,7 +144,7 @@ Full Name: **Becka Rolf**
 
 Screenshot:
 
-![Full Name Identification](samr_fullname_indentification.png)
+![Full Name Identification](screenshots/samr_fullname_indentification.png)
 
 ---
 
